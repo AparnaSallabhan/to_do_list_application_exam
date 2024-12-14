@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "222431564379",
+    "project_id": "fir-sample-e3372",
+    "storage_bucket": "fir-sample-e3372.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222431564379:android:3b4932975183270355657e",
+        "android_client_info": {
+          "package_name": "com.example.to_do_list_application_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRV3RFquV_Ac2XppyUMgHztf2yJFufl1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222431564379:android:639a18f1627d86a255657e",
+        "android_client_info": {
+          "package_name": "com.luminar.firebase_sample_oct09"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRV3RFquV_Ac2XppyUMgHztf2yJFufl1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
